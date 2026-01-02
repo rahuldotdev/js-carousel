@@ -15,7 +15,7 @@
  * @returns {Function} create - A function to create and initialize the carousel.
  * @returns {Function} destroy - A function to destroy and clean up the carousel.
  * @author  Rahul C.
- * @see     https://github.com/c99rahul/js-carousel
+ * @see     https://github.com/rahuldotdev/js-carousel
  */
 const JSCarousel = ({
   carouselSelector,

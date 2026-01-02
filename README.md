@@ -16,7 +16,7 @@ If you are new to JavaScript, consider going through [this beginner's guide](htt
 Simply clone this repo in your local development environment and open `index.html` in your favorite web browser.
 
 ```shell
-git clone https://github.com/c99rahul/js-carousel.git
+git clone https://github.com/rahuldotdev/js-carousel.git
 ```
 The `style.css` file is as important as the `carousel.js` as it sets the stage for our carousel and its controls.
 
@@ -26,4 +26,4 @@ This project is licensed under the MIT license.
 
 ---
 
-I'm working on another carousel solution called [Sway Carousel](https://github.com/c99rahul/sway) which is based on this project but carries some advanced features like showing multiple slides at a time, fading effects, and more.
+I'm working on another carousel solution called [Sway Carousel](https://github.com/rahuldotdev/sway) which is based on this project but carries some advanced features like showing multiple slides at a time, fading effects, and more.
